@@ -1,22 +1,26 @@
 # CRUD-Operations-with-Python-GUI
 # Vehicle Store - CRUD App
 
-A simple CRUD (Create, Read, Update, Delete) application built with Python (Tkinter) and MongoDB for managing vehicles such as Cars, Bikes, and Trucks.  
-
----
+A simple *Vehicle Store Application* built with *Python (Tkinter GUI)* and *MongoDB*.  
+This app allows you to *Add, View, Update, and Delete* vehicle records from a MongoDB database.
 
 ## Features
-- Add Vehicle – Insert new vehicles into the database  
-- View Vehicles – Display all vehicles with name, type, price, and stock  
-- Update Vehicle – Update the price of an existing vehicle  
-- Delete Vehicle – Remove a vehicle by its name  
 
----
+- Add new vehicles (name, type, price, stock).  
+- View all available vehicles in the store.  
+- Update vehicle price.  
+- Delete vehicles by name.  
+- Built with *Tkinter GUI* for user-friendly interaction.  
+- Stores data in *MongoDB database* (vehicleDB → vehicles collection).  
 
-## Tech Stack
-- Python (Tkinter for GUI)  
-- MongoDB (for database)  
-- PyMongo (for Python-MongoDB connection)  
+## Tools & Technologies
+
+- *Python 3.x*  
+- *Tkinter* (for GUI)  
+- *MongoDB* (Community Server + Compass GUI)  
+- *PyCharm IDE* (recommended)  
+- *pymongo* (Python driver for MongoDB)  
+
 
 ## OUTPUT
 <img width="1920" height="461" alt="Image" src="https://github.com/user-attachments/assets/780ce2c5-6839-49ea-9680-6bf1cb624756" />
